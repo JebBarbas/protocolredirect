@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/JebBarbas/protocolredirect/compare/v2.0.4...v2.1.0) (2021-08-02)
+
+
+### Features
+
+* fixed README ([e3b9e09](https://github.com/JebBarbas/protocolredirect/commit/e3b9e0985914c0196b3ea7fd883f65ca25f55e70))
+
 ### [2.0.4](https://github.com/JebBarbas/protocolredirect/compare/v2.0.3...v2.0.4) (2021-08-02)
 
 

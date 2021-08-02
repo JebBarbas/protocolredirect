@@ -1,0 +1,1 @@
+new RegExp("(?:localhost|127.0.0.1):?(?:d+)?").test(location.host)||(location.protocol="https:");

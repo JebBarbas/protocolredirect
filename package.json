@@ -1,6 +1,6 @@
 {
   "name": "protocolredirect",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Redirect HTTP visitors to HTTPS using pure Javascript",
   "main": "dist/index.js",
   "scripts": {
